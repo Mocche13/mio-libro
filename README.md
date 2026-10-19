@@ -1,1 +1,23 @@
 # mio-libro
+
+# Il Segreto del Caffè del Mattino
+
+Questo è il primo paragrafo del capitolo. Per andare a capo e creare un **nuovo paragrafo**, ti basta lasciare una riga vuota nel codice. 
+
+In questo modo il testo risulterà ben distanziato e facile da leggere su GitHub.
+
+## La preparazione della Moka
+
+Per inserire un sottotitolo si usano due cancelletti (`##`). Se invece vuoi andare a capo *senza* creare un nuovo paragrafo (un'interruzione di riga semplice), devi inserire due spazi alla fine della riga precedente oppure usare un punto e a capo standard.
+
+Ecco i punti chiave per un buon caffè:
+* Usare acqua a temperatura ambiente.
+* Non pressare troppo la polvere di caffè.
+* Tenere la fiamma bassa.
+
+### Conclusione
+
+I tre cancelletti (`###`) creano un titolo ancora più piccolo (sezioni secondarie).
+
+> "Il caffè è un balsamo per il cuore e per lo spirito."  
+> — *Proverbio anonimo*
