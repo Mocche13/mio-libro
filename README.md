@@ -1,5 +1,7 @@
 # mio-libro
 
+<img width="495" height="517" alt="image" src="https://github.com/user-attachments/assets/8441d9a4-9596-4d8d-944e-3b64fa3ddefe" />
+
 # Il Segreto del Caffè del Mattino
 
 Questo è il primo paragrafo del capitolo. Per andare a capo e creare un **nuovo paragrafo**, ti basta lasciare una riga vuota nel codice. 
