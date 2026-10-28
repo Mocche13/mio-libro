@@ -1,6 +1,6 @@
 # mio-libro
 
-<img width="495" height="517" alt="image" src="https://github.com/user-attachments/assets/8441d9a4-9596-4d8d-944e-3b64fa3ddefe" />
+<img width="295" height="317" alt="image" src="https://github.com/user-attachments/assets/8441d9a4-9596-4d8d-944e-3b64fa3ddefe" />
 
 # Il Segreto del Caffè del Mattino
 
